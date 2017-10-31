@@ -1,0 +1,12 @@
+{
+    "name": "administrateur/test-composer",
+    "require": {
+        "samchristy/piechart": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "uzio",
+            "email": "ruzio@free.fr"
+        }
+    ]
+}
